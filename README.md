@@ -1,4 +1,4 @@
-# Hi, I'm Mine-Galve! 👋
+# Hi, I'm Mine Galve! 👋
 
 I am a passionate IT student at STI College, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 ![<Mine-Galve>'s Stats](https://github.com/Mine-Galve/Mine-Galve/edit/main/README.md)
