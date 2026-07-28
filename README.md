@@ -10,7 +10,7 @@ I am a passionate IT student at Xavier College, driven by a curiosity for techno
 - 📫 How to reach me: <minegalve0@gmail.com>
 
 ## 💻 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github,vscode,react,node,java,python,netlify,mongodb,postgreSQL,render)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github,vscode,react,node,java,python,netlify,mongodb,django,render,vite)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 - 🚀 Learning Full Stack Web Development
