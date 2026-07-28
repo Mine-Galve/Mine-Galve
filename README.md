@@ -4,10 +4,10 @@ I am a passionate IT student at Xavier College, driven by a curiosity for techno
 ![<Mine-Galve>'s Stats](https://github.com/Mine-Galve/Mine-Galve/edit/main/README.md)
 
 ## 🚀 About Me
-- 🔭 I'm currently pursuing my Bachelor's Degree in Information Technology at STI College.
+- 🔭 I'm currently pursuing my Bachelor's Degree in Information Technology at Xavier University College.
 - 🌱 I’m currently learning Full Stack Web Development and API creation.
 - 💬 Ask me about ...
-- 📫 How to reach me: <20230028581@my.xu.edu.ph>
+- 📫 How to reach me: <minegalve0@gmail.com>
 
 ## 💻 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github,vscode)](https://skillicons.dev)
